@@ -3,6 +3,7 @@ import axios from "axios";
 
 function CustomerReg()
 {
+    //added
     const[cuserid,setCUserid]=useState();
     const[cuserpass,setCUserPass]=useState();
     const[customername,setCustomerName]=useState();
