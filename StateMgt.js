@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import "../index";
-
+// State mgt code
 const StateMgt = () => {
   const [stid, setStid] = useState(0);
   const [stname, setStName] = useState("");
